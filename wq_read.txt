@@ -1,8 +1,2 @@
 git is a distributed version control system
-git is a free software
-are you ok?
-lei jun
-do you like me?
-hello world!
-anything to be wrote!
-to be added?
+git is a free
